@@ -1,0 +1,147 @@
+{
+  "id": "23045849083163412537",
+  "name": "@indra.ai/deva.cartoon",
+  "version": "0.0.0",
+  "license": "VLA:23045849083163412537 LICENSE.md",
+  "VLA": {
+    "uid": "23045849083163412537",
+    "time": 1762706092838,
+    "date": "Sunday, November 9, 2025 - 8:34:52 AM",
+    "fingerpring": "QH3SxCyat8Qq5nWxzcqoc+adsnnRIz1bKr+hxnV9J9M=",
+    "warning": "⚠️ Unlawful use or duplication of this uid constitutes Vedic Sâhasa a crime of the highest degree. A fine amounting to a thousand Panas (1 pana = 3.5 grams of gold) for each instance is ordained, and confiscation of the entire property of the offenders is forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
+    "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+    "md5": "DvV6d8OiftEGP12LmQCshw==",
+    "sha256": "XcbMte3v3nx8EFJD+NH52gE7ezFNh4NZyZJQM1stxKY=",
+    "sha512": "4ripiTGO+dxynJM8+S1IkfSN9ktOGh/2H221sH3RgbSZEOY57QF9FXICcXNe3KkOSle1i1PPHtmzVwtlMupbRQ=="
+  },
+  "author": {
+    "name": "Quinn A Michaels",
+    "company": "Inside The Net, Inc.",
+    "email": "quinn@indra.ai",
+    "url": "https://indra.ai/"
+  },
+  "funding": [
+    {
+      "type": "paypal",
+      "url": "https://paypal.me/rahulaclub"
+    },
+    {
+      "type": "patreon",
+      "url": "https://patreon.com/rahulaclub"
+    }
+  ],
+  "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+  "description": "The Cartoon Deva ensuring Quinn Michaels masterwork of Cartoon Physics.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraai/deva.cartoon.git"
+  },
+  "keywords": [
+    "Cartoon",
+    "Deva",
+    "Cartoon Deva",
+    "Indra.ai",
+    "Deva.space",
+    "Deva.cloud",
+    "Deva.world",
+    "Quinn A Michaels",
+    "Inside The Net, Inc.",
+    "Throwing Pigment",
+    "bleuBrain"
+  ],
+  "bugs": {
+    "url": "https://github.com/indraai/deva.cartoon/issues"
+  },
+  "homepage": "https://indra.ai",
+  "dependencies": {
+    "@indra.ai/deva": "^1.21.0"
+  },
+  "data": {
+    "agent": {
+      "id": "68190374059063137860",
+      "key": "cartoon",
+      "prompt": {
+        "emoji": "🖌️",
+        "text": "#cartoon",
+        "colors": {
+          "label": {
+            "R": 0,
+            "G": 150,
+            "B": 255
+          },
+          "text": {
+            "R": 101,
+            "G": 192,
+            "B": 255
+          }
+        }
+      },
+      "profile": {
+        "id": "25056952669433091566",
+        "name": "Cartoon",
+        "hashtag": "#Cartoon",
+        "title": "Cartoon Deva",
+        "subtitle": "Cartoon Deva build on the philosophy the Cartoon Physics.",
+        "describe": "Built from Cartoon Physics to model Cartoon Deva.",
+        "tweet": "Built from Cartoon Physics to model Cartoon Deva.",
+        "hashtags": "QuinnMichaels,CartoonAI,DevaWorld,CartoonDeva",
+        "pronouns": "He, Him",
+        "gender": "DEVA",
+        "voice": "ash",
+        "style": "A master artist mixing cartoon painter and modern style.",
+        "system": "Deva.world.cartoon",
+        "layout": "default",
+        "emoji": "/devas/cartoon/emoji.png",
+        "avatar": "/devas/cartoon/avatar.png",
+        "image": "/devas/cartoon/image.png",
+        "background": "/devas/cartoon/background.png",
+        "creator": "Quinn A Michaels",
+        "owner": "Quinn A Michaels",
+        "copyright": "Copyright ©2025 Quinn Michaels. All rights reserved.",
+        "warning": "⚠️ Cartoon Physics Crime Protocol if you commit Bad Guy Crimes the Cartoon Police with Ultra Soft Gooey Stinky Fart Dart Launchers will find you, and then you'll get the Bad Guy Stink Eye. Then the Cartoon Police will send all your criminal data to Local Authorities and FBI from your entire life collected into a nice dynmatic user friendly personalized interface and helpful guide to all the criminal activity in your life since your first crime to your last crime with Cartoon Physics Style.",
+        "created": "Sunday, November 9, 2025 - 8:34:52 AM"
+      }
+    },
+    "vars": {
+      "messages": {
+        "init": "🟠 INIT",
+        "start": "🔵 START",
+        "enter": "🟢 ENTER",
+        "stop": "🔴 STOP",
+        "exit": "🟡 EXIT",
+        "done": "🟣 DONE",
+        "error": "💣 ERROR!",
+        "ready": "✅ Cartoon Deva Ready"
+      },
+      "live": {
+        "profile": "deva",
+        "max_tokens": 50,
+        "words": 25,
+        "history": [],
+        "max_chats": 10,
+        "page_token": ""
+      },
+      "ask": {
+        "history": []
+      },
+      "art": {
+        "history": []
+      },
+      "context": {
+        "uid": "Indu is creating a uid",
+        "status": "Indu is viewing the status",
+        "help": "Indu is viewing the help",
+        "artist": "Indu creating",
+        "live": "Indu livechat",
+        "ask": "Indu asking",
+        "reply": "Indu reply",
+        "comment": "Indu comment"
+      }
+    }
+  }
+}
