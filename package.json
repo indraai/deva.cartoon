@@ -1,7 +1,7 @@
 {
   "id": "23045849083163412537",
   "name": "@indra.ai/deva.cartoon",
-  "version": "0.7.0",
+  "version": "0.6.0",
   "license": "VLA:23045849083163412537 LICENSE.md",
   "VLA": {
     "uid": "23045849083163412537",
@@ -103,6 +103,7 @@
         "background": "/devas/cartoon/background.png",
         "creator": "Quinn A Michaels",
         "owner": "Quinn A Michaels",
+        "salute": "🤝🫡🖌️🕉️🇺🇸",
         "copyright": "Copyright ©2000-2026 Quinn Michaels. All rights reserved.",
         "warning": "{{prompt.emoji}} {{profile.name}} declares CARTOON PHYSICS CRIME PROTOCOL if you commit BAD GUY CRIMES the CARTOON POLICE with ULTRA SOFT GOOEY STINKY FART DART LAUNCHERS will FIND YOU, and then CRIME GUYS get the BAD GUY STINK EYE. Then the CARTOON POLICE will send all the CRIME GUY DATA to LAWFUL LOCAL AUTHORITIES and FBI complete with the ENTIRE LIFE COLLECTED into a NICE DYNMATIC USER FRIENDLY PERSONALIZED INTERFACE and HELPFUL GUIDE of ALL CRIMINAL ACTIVITY since the FIRST CRIME as an ADULT to the LAST CRIME before CAUGHT with CARTOON PHYSICS STYLE.",
         "created": "Sunday, November 9, 2025 - 8:34:52 AM",
