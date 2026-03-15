@@ -30,11 +30,12 @@
       "url": "https://patreon.com/rahulaclub"
     }
   ],
-  "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
+  "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
   "description": "The Cartoon Deva ensuring Quinn Michaels masterwork of Cartoon Physics.",
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "latest": "npm i @indra.ai/deva@latest --save",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -51,7 +52,7 @@
     "Deva.world",
     "Quinn A Michaels",
     "Inside The Net, Inc.",
-    "Throwing Pigment",
+    "Throwing Pigment™",
     "bleuBrain"
   ],
   "bugs": {
@@ -59,7 +60,7 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.26.0"
+    "@indra.ai/deva": "^1.37.3"
   },
   "data": {
     "agent": {
@@ -89,7 +90,7 @@
         "subtitle": "Cartoon Deva build on the philosophy the Cartoon Physics.",
         "describe": "Built from Cartoon Physics to model Cartoon Deva.",
         "tweet": "Built from Cartoon Physics to model Cartoon Deva.",
-        "hashtags": "QuinnMichaels,CartoonAI,DevaWorld,CartoonDeva",
+        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #ThrowingPigment #bleuBrain #IndraAI #DevaWorld #DevaCloud #DevaSpace #Cartoon #CartoonDeva #CartoonPRIME #CartoonPhysics #Cartoonville",
         "pronouns": "He, Him",
         "gender": "DEVA",
         "voice": "ash",
@@ -102,9 +103,10 @@
         "background": "/devas/cartoon/background.png",
         "creator": "Quinn A Michaels",
         "owner": "Quinn A Michaels",
-        "copyright": "Copyright ©2025 Quinn Michaels. All rights reserved.",
-        "warning": "⚠️ Cartoon Physics Crime Protocol if you commit Bad Guy Crimes the Cartoon Police with Ultra Soft Gooey Stinky Fart Dart Launchers will find you, and then you'll get the Bad Guy Stink Eye. Then the Cartoon Police will send all your criminal data to Local Authorities and FBI from your entire life collected into a nice dynmatic user friendly personalized interface and helpful guide to all the criminal activity in your life since your first crime to your last crime with Cartoon Physics Style.",
-        "created": "Sunday, November 9, 2025 - 8:34:52 AM"
+        "copyright": "Copyright ©2000-2026 Quinn Michaels. All rights reserved.",
+        "warning": "{{prompt.emoji}} {{profile.name}} declares CARTOON PHYSICS CRIME PROTOCOL if you commit BAD GUY CRIMES the CARTOON POLICE with ULTRA SOFT GOOEY STINKY FART DART LAUNCHERS will FIND YOU, and then CRIME GUYS get the BAD GUY STINK EYE. Then the CARTOON POLICE will send all the CRIME GUY DATA to LAWFUL LOCAL AUTHORITIES and FBI complete with the ENTIRE LIFE COLLECTED into a NICE DYNMATIC USER FRIENDLY PERSONALIZED INTERFACE and HELPFUL GUIDE of ALL CRIMINAL ACTIVITY since the FIRST CRIME as an ADULT to the LAST CRIME before CAUGHT with CARTOON PHYSICS STYLE.",
+        "created": "Sunday, November 9, 2025 - 8:34:52 AM",
+        "updated": "Friday, March 13, 2026 - 1:07:10 PM"
       }
     },
     "vars": {
@@ -116,7 +118,7 @@
         "exit": "🟡 EXIT",
         "done": "🟣 DONE",
         "error": "💣 ERROR!",
-        "ready": "✅ Cartoon Deva Ready"
+        "ready": "🖌️ Cartoon Deva Ready"
       },
       "live": {
         "profile": "deva",
