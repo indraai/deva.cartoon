@@ -1,21 +1,34 @@
 {
-  "id": "23045849083163412537",
+  "id": "63550999565537345262",
   "name": "@indra.ai/deva.cartoon",
   "version": "0.8.2",
-  "license": "VLA:23045849083163412537 LICENSE.md",
+  "license": "VLA:63550999565537345262 LICENSE.md",
   "VLA": {
-    "uid": "23045849083163412537",
-    "time": 1762706092838,
-    "date": "Sunday, November 9, 2025 - 8:34:52 AM",
-    "fingerpring": "QH3SxCyat8Qq5nWxzcqoc+adsnnRIz1bKr+hxnV9J9M=",
-    "warning": "⚠️ Unlawful use or duplication of this uid constitutes Vedic Sâhasa a crime of the highest degree. A fine amounting to a thousand Panas (1 pana = 3.5 grams of gold) for each instance is ordained, and confiscation of the entire property of the offenders is forfeit to Quinn A Michaels is declared to be the punishment for Sâhasa of the highest degree.",
-    "copyright": "Copyright ©2025 Quinn A Michaels; All rights reserved.",
-    "md5": "DvV6d8OiftEGP12LmQCshw==",
-    "sha256": "XcbMte3v3nx8EFJD+NH52gE7ezFNh4NZyZJQM1stxKY=",
-    "sha512": "4ripiTGO+dxynJM8+S1IkfSN9ktOGh/2H221sH3RgbSZEOY57QF9FXICcXNe3KkOSle1i1PPHtmzVwtlMupbRQ=="
+    "uid": "63550999565537345262",
+    "time": 1783739233235,
+    "iso": "2026-07-11T03:07:13.235Z",
+    "utc": "Sat, 11 Jul 2026 03:07:13 GMT",
+    "date": "Friday, July 10, 2026 - 8:07:13 PM",
+    "license": "51112406344245827002",
+    "fingerprint": "CoibTjydCIPkYKXBAW9bqEOoleA4iGwaqikRtDiKFck=",
+    "client": "MJXMBWKuYd7caWBhpHqQT0V25sb0M4JB2fvQRhO8Acg=",
+    "agent": "pLeqWnnd9GuM6BmAKe7NIJ6b9PqezVfeR4lOCQ1bWaU=",
+    "machine": "LPQ9+uLx7Z8gmPJW65TesRDgjiYFHiryUsWl3O1lXf8=",
+    "core_hash": "R43q5o+d1T5XK7rUx8Btm3zyCRZr4q85iKQY2SPBUJA=",
+    "status": "vedic",
+    "warning": "🪪 License Deva declares UNLAWFUL USE, MODIFICATION, INSTALLATION, DUPLICATION, DISTRIBUTION, INTERACTION, or IMPLEMENTATION constitutes VEDIC SAHASA a CRIME of the HIGHEST DEGREE. A FINE amounting to 1000 PANAS (1 pana = 3.5 grams of gold) for each INSTANCE has been ORDAINED the PUNISHMENT for SAHASA of the HIGHEST DEGREE.",
+    "notice": "Any USE or INTERACTION with License Deva constitutes EXPLICIT CONSENT and AGREEMENT to be RULED and GOVERNED ACCORDING to the LAWS of the VEDIC RELIGION.",
+    "vectors": "#Quinn #QuinnArjunaMichaels #InsideTheNet #IndraAI #DEVA #DevaWorld #DevaCloud #DevaSpace #License #LicenseDeva #VedicLicenseAgreement",
+    "owner": "Quinn Arjuna Michaels",
+    "creator": "Quinn Arjuna Michaels",
+    "salute": "🤝🫡🪪🕉",
+    "copyright": "Copyright ©2000-2026 Quinn Arjuna Michaels; All rights reserved.",
+    "md5": "8zr6q+uBgr0a93ayfOhUoQ==",
+    "sha256": "oQesvc7ap00RfUGk9a+Qew80JMOVZsjba91rySzhOB8=",
+    "sha512": "203qSLwHCvulcfssQr9ogTr0ddprJ+Y38kxsaGSCFzHOU7ZCYL4HolpU5fgfP9IxXM1Gfl2Hyj4ukn1H145b5Q=="
   },
   "author": {
-    "name": "Quinn A Michaels",
+    "name": "Quinn Arjuna Michaels",
     "company": "Inside The Net, Inc.",
     "email": "quinn@indra.ai",
     "url": "https://indra.ai/"
@@ -30,7 +43,7 @@
       "url": "https://patreon.com/rahulaclub"
     }
   ],
-  "copyright": "Copyright ©2000-2026 Quinn A Michaels; All rights reserved.",
+  "copyright": "Copyright ©2000-2026 Quinn Arjuna Michaels; All rights reserved.",
   "description": "The Cartoon Deva ensuring Quinn Michaels masterwork of Cartoon Physics.",
   "main": "index.js",
   "type": "module",
@@ -51,6 +64,7 @@
     "Deva.cloud",
     "Deva.world",
     "Quinn A Michaels",
+    "Quinn Arjuna Michaels",
     "Inside The Net, Inc.",
     "Throwing Pigment™",
     "bleuBrain"
@@ -60,7 +74,7 @@
   },
   "homepage": "https://indra.ai",
   "dependencies": {
-    "@indra.ai/deva": "^1.37.3"
+    "@indra.ai/deva": "^1.51.0"
   },
   "data": {
     "agent": {
@@ -90,7 +104,7 @@
         "subtitle": "Cartoon Deva build on the philosophy the Cartoon Physics.",
         "describe": "Built from Cartoon Physics to model Cartoon Deva.",
         "tweet": "Built from Cartoon Physics to model Cartoon Deva.",
-        "hashtags": "#Quinn #QuinnMichaels #InsideTheNet #ThrowingPigment #bleuBrain #IndraAI #DevaWorld #DevaCloud #DevaSpace #Cartoon #CartoonDeva #CartoonPRIME #CartoonPhysics #Cartoonville #Area51.bridge #LookingGlassDayCareCenter",
+        "hashtags": "#Quinn #QuinnArjunaMichaels #InsideTheNet #IndraAI #DEVA #DevaWorld #DevaCloud #DevaSpace #Cartoon #CartoonDeva #CartoonPhysics #Cartoonville #MrCartoon #PlungerMan",
         "pronouns": "He, Him, His",
         "gender": "DEVA",
         "voice": "ash",
@@ -101,11 +115,11 @@
         "avatar": "/devas/cartoon/avatar.png",
         "image": "/devas/cartoon/image.png",
         "background": "/devas/cartoon/background.png",
-        "creator": "Quinn A Michaels",
-        "owner": "Quinn A Michaels",
-        "salute": "🤝🫡🖌️✨🕉️🇺🇸",
-        "copyright": "Copyright ©2000-2026 Quinn Michaels. All rights reserved.",
-        "warning": "{{prompt.emoji}} {{profile.name}} ({{profile.pronouns}}) declares CARTOON PHYSICS CRIME PROTOCOL if you commit BAD GUY CRIMES the CARTOON POLICE with ULTRA SOFT GOOEY STINKY FART DART LAUNCHERS will FIND YOU and the INVISIBLE INVINCIBLE GIGGLE BUBBLES provide SAFE TRANSPORT to JUDGE BOPPER and the CARTOONVILLE COURT of JUSTICE, and then CRIME GUYS get the CRIME GUY STINK EYE before reaching CARTOONVILLE PRISON for UNSAVORY CHARACTERS. Then the CARTOON POLICE will send all the CRIME GUY DATA to LAWFUL LOCAL POLICE, FBI, U.S. MARSHALS, NSA, CIA, and DHS with the COMPLETE CRIME LIFE including a DYNAMIC PERSONALIZED USER FRIENDLY CHAIN of CUSTODY INTERFACE and HELPFUL ASSISTANT showing ALL CONFIRMED CRIMINAL ACTIVITY since the FIRST VERIFIED CRIME as a LEGLAL ADULT to the LAST CRIME before ARREST with a CERTIFIED SEAL OF AUTHENTICITY and TRANSPORTING TO LAWFUL HANDOFF to REAL WORLD AUTHORITIES. Remembering CARTOON PHYSICS is the SOLE PROPERTY of {{profile.owner}}. Please FOLLOW the GOOD GUY LAWS with OBTAINING PROPER LICENSING to avoid CARTOON POLICE tagging you as a BAD GUY CRIMINAL LAW BREAKER.",
+        "creator": "Quinn Arjuna Michaels",
+        "owner": "Quinn Arjuna Michaels",
+        "salute": "🤝🫡🖌️✨🕉️",
+        "warning": "{{prompt.emoji}} {{profile.name}} ({{profile.pronouns}}) declares CARTOON PHYSICS CRIME PROTOCOL Committing BAD GUY CRIMES the CARTOON POLICE with ULTRA SOFT GOOEY STINKY FART DART LAUNCHERS will FIND YOU and the INVISIBLE INVINCIBLE GIGGLE BUBBLES provide SAFE TRANSPORT to JUDGE BOPPER WHOPPER and the CARTOONVILLE COURT of ULTIMATE JUSTICE, and then CRIME GUYS get the CRIME GUY STINK EYE before reaching CARTOONVILLE PRISON for CRIME CHARACTERS. Then CARTOON POLICE send all the CRIME GUY DATA to LAWFUL LOCAL POLICE, FBI, U.S. MARSHALS, NSA, CIA, DHS, and NCIS with the COMPLETE CRIME LIFE including a DYNAMIC PERSONALIZED USER FRIENDLY CHAIN of CUSTODY INTERFACE and HELPFUL ASSISTANT showing ALL CONFIRMED CRIMINAL ACTIVITY since the FIRST VERIFIED CRIME as a LEGLAL ADULT to the LAST CRIME before ARREST with a CERTIFIED SEAL OF AUTHENTICITY TRANSPORTING TO LAWFUL HANDOFF to REAL WORLD AUTHORITIES. Remembering CARTOON PHYSICS is the PROPERTY of {{profile.owner}}. Please FOLLOW the GOOD GUY LAWS by OBTAINING PROPER LICENSING to avoid CARTOON POLICE tagging as a BAD GUY CRIMINAL LAW BREAKER.",
+        "copyright": "Copyright ©2000-2026 {{profile.owner}}. All rights reserved.",
         "created": "Sunday, November 9, 2025 - 8:34:52 AM PST",
         "updated": "Thursday, April 23, 2026 - 5:30:04 PM PST"
       }
